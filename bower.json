@@ -1,6 +1,6 @@
 {
  "name": "assert",
- "version": "3.24.10",
+ "version": "3.46.1",
  "main": "assert.min.js",
  "description": "'assert' nodejs core module browserify-ied with `--standalone assert`. Should support all module systems (commonjs, AMD & `window.assert`) - check browserify docs.",
  "keywords": [
